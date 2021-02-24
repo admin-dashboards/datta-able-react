@@ -9,9 +9,11 @@ With Datta Able dashboard template we have provided all possible prebuilt admin 
  
 <br />
 
-![Datta Able React Free Admin Template Preview Image](https://codedthemes.com/wp-content/uploads/edd/2019/05/datta-bootstrap-free.jpg)
+![Datta Able React - Free Admin Template crafted by CodedThemes.](https://raw.githubusercontent.com/admin-dashboards/datta-able-react/main/media/datta-able-react-intro.gif)
 
-Datta Able React Free Admin Template comes with variety of components like Button, Badges, Tabs, Breadcrumb, Icons, Form elements, Table, Charts & Authentication pages.
+<br />
+
+[Datta Able React](https://bit.ly/33Vk0vn) comes with variety of components like Button, Badges, Tabs, Breadcrumb, Icons, Form elements, Table, Charts & Authentication pages.
 
 The code structure is high flexible to use and modify. 
 
@@ -147,16 +149,7 @@ Please generate Github issue if you found bug in any version. We are try to be r
  - Design and Code is Copyright &copy; [CodedThemes](https://www.codedthemes.com)
  - Licensed cover under [MIT](https://github.com/codedthemes/datta-able-bootstrap-dashboard/blob/master/LICENSE)
 
-## Other Dashboard Products
+<br />
 
- - [Free Bootstrap 4 Admin Template](https://codedthemes.com/item/category/free-templates/free-bootstrap-admin-templates)
- - [Free React Dashboard Template](https://codedthemes.com/item/category/free-templates/free-react-admin-templates)
- - [Free Angular Dashboard Template](https://codedthemes.com/item/category/free-templates/free-angular-admin-templates)
- - [Premium Bootstrap & Angular Admin Template](https://codedthemes.com/item/category/templates/admin-templates/)
- 
-## Social Profiles
- - Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
- - Behance [https://www.behance.net/codedthemes](https://www.behance.net/codedthemes)
- - Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
- - Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
- - Instagram [https://www.instagram.com/codedthemes/](https://www.instagram.com/codedthemes/)
+---
+[Datta Able React](https://bit.ly/33Vk0vn) - Free Dashboard Template provided by **[CodedThemes](https://appseed.us/agency/codedthemes)**
